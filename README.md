@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">🛡️ Software engineer fighting with billions of Spam at FAANG | 🔥 Creator of Flame: Voice & LLM API Testing Tool</h3>
+<h3 align="center">🛡️ Software engineer fighting with billions of Spam at FAANG 
+| 🔥 Creator of Flame: Voice & LLM API Testing Tool</h3>
 
 - 🔭 I’m currently working on [Flame](https://github.com/NehaMadnani/flame)
 
