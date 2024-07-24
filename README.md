@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">🛡️ Software engineer fighting with billions of Spam at FAANG </h3>
 
-- 🔭 I’m currently working on [NotHotDoh](https://github.com/vedshaka/nothotdog)
+- 🔭 I’m currently working on [NotHotDog](https://github.com/vedshaka/nothotdog)
 
 - 🌱 I’m currently learning **Swift, Xcode**
 
