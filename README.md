@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **x.com/vedhsaka**
 
+- You can collaborate with me on [Taro](https://github.com/NehaMadnani/taro-app) 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vedhsaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vedhsaka" height="30" width="40" /></a>
