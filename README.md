@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Swift, Xcode**
 
+- Follow me on Product Hunt - [Vedhsaka](https://www.producthunt.com/@vedhsaka)
+
 - 📫 How to reach me **x.com/vedhsaka**
 
 - You can collaborate with me on [Taro](https://github.com/NehaMadnani/taro-app) 
