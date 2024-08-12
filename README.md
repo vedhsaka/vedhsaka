@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [NotHotDog](https://github.com/vedhsaka/Nothotdog)
 
-- 🌱 I’m currently learning **Swift, Xcode**
+- 🌱 In free time, I am currently learning **Swift, Xcode**
 
 - Follow me on Product Hunt - [Vedhsaka](https://www.producthunt.com/@vedhsaka)
 
 - 📫 How to reach me **x.com/vedhsaka**
 
-- You can collaborate with me on [Taro](https://github.com/NehaMadnani/taro-app) 
+- You can collaborate with me on [Taro](https://github.com/NehaMadnani/taro-app) or [NotHotDog](https://github.com/vedhsaka/Nothotdog)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
